@@ -26,6 +26,7 @@ El genoma SARS-CoV2 codifica 4 proteínas estructurales, 16 proteínas no estruc
 
 
 
+
 ## Reposicionamiento de fármacos para inhibir la proteasa principal (Mpro) del SARS-CoV-2
 
 ## Importancia de la comparación de la proteasa principal del SARS-CoV2 (SARS-CoV2 Mpro) con las proteasas del Virus de la Hepatitis C (HCV NS3/4A) y del Virus de la Inmunodeficiencia Humana tipo 1 (HIV-1)
