@@ -17,7 +17,7 @@ La epidemia se extendió rápidamente a más de 212 países y la OMS la anunció
 
 El genoma SARS-CoV2 codifica 4 proteínas estructurales, 16 proteínas no estructurales (NSP) que llevan a cabo funciones intracelulares cruciales y 9 proteínas accesorias. (Bafna, K., et al 2020) 
 
-![Proteinas SARS-COV2](https://github.com/Krisacv/Task9-Challenge-CdCMX/blob/gh-pages/WhatsApp%20Image%202020-08-14%20at%2017.51.52.jpeg?raw=true)
+![Proteinas SARS-COV2](https://github.com/Krisacv/Task9-Challenge-CdCMX/blob/gh-pages/WhatsApp%20Image%202020-08-15%20at%2000.36.33.jpeg?raw=true)
 
 
 ## Reposicionamiento de fármacos para inhibir la proteasa principal (Mpro) del SARS-CoV-2
