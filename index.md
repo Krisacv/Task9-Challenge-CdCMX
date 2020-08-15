@@ -13,11 +13,11 @@ De acuerdo al análisis genómico se ha revelado que el SARS-CoV-2 tiene una may
 
 Estos virus se caracterizan por causar lesión pulmonar aguda, y síndrome de dificultad respiratoria aguda que conduce a insuficiencia pulmonar y resultar en la muerte. (Muhammad, A., et al 2020) 
 
-La epidemia se extendió rápidamente a más de 212 países y la OMS la anunció como una emergencia sanitaria mundial. Para el 15 de mayo de 2020, el virus ya había infectado a más de 4.347.935 personas en todo el mundo, incluidas 297.241 muertes, con una tasa de mortalidad acumulada de> 6,8% y aumentó exponencialmente entre marzo y abril. (Dai., et al 2020). Actualmente se tienen reportados 20.936,041 casos confirmados y alrededor de 756,844 muertes. Para consultar los casos actuales puedes consultar la siguiente liga: [Link casos Covid](https://news.google.com/covid19/map?hl=es-419&gl=MX&ceid=MX%3Aes-419)
+La epidemia se extendió rápidamente a más de 212 países y la OMS la anunció como una emergencia sanitaria mundial. Para el 15 de mayo de 2020, el virus ya había infectado a más de 4.347.935 personas en todo el mundo, incluidas 297.241 muertes, con una tasa de mortalidad acumulada de> 6,8% y aumentó exponencialmente entre marzo y abril. (Dai., et al 2020). Actualmente se tienen reportados 20.936,041 casos confirmados y alrededor de 756,844 muertes. Para consultar los casos actuales puedes consultar la siguiente liga: [Casos actuales de COVID-19](https://news.google.com/covid19/map?hl=es-419&gl=MX&ceid=MX%3Aes-419)
 
 El genoma SARS-CoV2 codifica 4 proteínas estructurales, 16 proteínas no estructurales (NSP) que llevan a cabo funciones intracelulares cruciales y 9 proteínas accesorias. (Bafna, K., et al 2020) 
 
-!.[Proteinas SARS-COV2](https://github.com/Krisacv/Task9-Challenge-CdCMX/blob/gh-pages/WhatsApp%20Image%202020-08-14%20at%2017.51.52.jpeg?raw=true)
+![Proteinas SARS-COV2](https://github.com/Krisacv/Task9-Challenge-CdCMX/blob/gh-pages/WhatsApp%20Image%202020-08-14%20at%2017.51.52.jpeg?raw=true)
 
 
 ## Reposicionamiento de fármacos para inhibir la proteasa principal (Mpro) del SARS-CoV-2
