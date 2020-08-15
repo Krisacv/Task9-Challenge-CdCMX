@@ -22,7 +22,7 @@ El genoma SARS-CoV2 codifica 4 proteínas estructurales, 16 proteínas no estruc
 ![Proteinas SARS-COV2](https://github.com/Krisacv/Task9-Challenge-CdCMX/blob/gh-pages/WhatsApp%20Image%202020-08-15%20at%2000.36.33.jpeg?raw=true)
 
 ## Mecanismo de la **Proteasa Principal**
-![proteasa principal vih](https://www.iloveimg.com/es/descarga/3stxbb35kgdkgvlAy8fz0dkn2xmg9Axlgxvl3hp7fbpvdcqtq0j8zmhwmcdphqrl6yldrv09svpwm3l2flbmnmmcnvs8s1pdbc7qlg2vtw6kvnkwqmknpkn3w3zfd8v4c0blnvps0Awr4pyt82vr1ghy99fd8Ar7mb7tmk7jydzqd3bs2x11/2e)
+![proteasa principal vih](https://media.giphy.com/media/YrI7Oz92Te7SBlGhqU/giphy.gif)
 
 
 
