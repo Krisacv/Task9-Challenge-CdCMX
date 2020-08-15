@@ -1,14 +1,14 @@
-## TASK-9 INTERACCIÓN DE FÁRMACOS CON LA PROTEASA PRINCIPAL DEL SARS-COV2 
+# TASK-9 INTERACCIÓN DE FÁRMACOS CON LA PROTEASA PRINCIPAL DEL SARS-COV2 
 
 
 
-# Introducción
+## Introducción
 
-# Reposicionamiento de fármacos para inhibir la proteasa principal (Mpro) del SARS-CoV-2
+## Reposicionamiento de fármacos para inhibir la proteasa principal (Mpro) del SARS-CoV-2
 
-# Importancia de la comparación de la proteasa principal del SARS-CoV2 (SARS-CoV2 Mpro) con las proteasas del Virus de la Hepatitis C (HCV NS3/4A) y del Virus de la Inmunodeficiencia Humana tipo 1 (HIV-1)
+## Importancia de la comparación de la proteasa principal del SARS-CoV2 (SARS-CoV2 Mpro) con las proteasas del Virus de la Hepatitis C (HCV NS3/4A) y del Virus de la Inmunodeficiencia Humana tipo 1 (HIV-1)
 
-# Método computacional 
+## Método computacional 
 
 
 
