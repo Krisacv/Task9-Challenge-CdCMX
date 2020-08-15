@@ -1,4 +1,5 @@
 # TASK-9 INTERACCIÓN DE FÁRMACOS CON LA PROTEASA PRINCIPAL DEL SARS-COV2 
+###Autores: Abigail Portillo Morales, Hetssel Alain Bernardino Cruz, Kristian Antonio Cauich Vera, Marisol Jiménez Castillo
 
 
 
